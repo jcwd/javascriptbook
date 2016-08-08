@@ -1,7 +1,7 @@
 // Create three variables to store the information needed.
-var price;
-var quantity;
-var total;
+var price; // holds the price of an individual tile
+var quantity; // holds the number of tiles the customer would like
+var total; // holds the total price*quantity calculated result
 
 // Assign values to the price and quantity variables.
 price = 5;
