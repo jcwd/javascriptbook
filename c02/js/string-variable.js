@@ -3,16 +3,17 @@ var username;
 var message;
 
 // Assign values to these variables.
-username = 'Molly';
-message = 'See our upcoming range';
+username = "Marta";
+message = "take a look at our upcomming range";
+
 
 // Get the element with an id of name.
-var elName = document.getElementById('name');
+var elName = document.getElementById("name");
 // Replace the content of this element.
 elName.textContent = username;
 
 // Get the element with an id of note.
-var elNote = document.getElementById('note');
+var elNote = document.getElementById("note");
 // Replace the content of this element.
 elNote.textContent = message;
 
